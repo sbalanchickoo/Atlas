@@ -1,0 +1,16 @@
+*.csv
+*.bat
+*.zip
+*.pdf
+*.xml
+*.whl
+
+data
+token.txt
+kaggle.json
+
+*.csv
+.cache
+.local
+
+.ipython/profile_default/history.sqlite
