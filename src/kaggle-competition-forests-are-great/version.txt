@@ -1,3 +1,6 @@
-* Version: V1
+* Version: V2
 * Description: 
-  - Initial attempt with hyperparameter optimization
+  - Correlation matrix
+  - Added Heatmap
+  - Drop low correlation columns
+  - Hyperparameter optimization
