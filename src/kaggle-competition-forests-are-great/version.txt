@@ -1,6 +1,7 @@
-* Version: V2
+* Version: V3
 * Description: 
   - Correlation matrix
   - Added Heatmap
-  - Drop low correlation columns
-  - Hyperparameter optimization
+  - No drop low correlation columns
+  - No hyperparameter optimization
+  - Manual stacking
