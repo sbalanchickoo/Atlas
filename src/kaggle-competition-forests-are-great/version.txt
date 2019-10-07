@@ -1,7 +1,7 @@
-* Version: V3
+* Version: V4
 * Description: 
   - Correlation matrix
   - Added Heatmap
   - No drop low correlation columns
-  - No hyperparameter optimization
+  - Hyperparameter optimization for RandomForest, KNN
   - Manual stacking
