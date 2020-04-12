@@ -10,6 +10,7 @@ token.txt
 kaggle.json
 
 *.csv
+*.csv.gz
 .cache
 .local
 
