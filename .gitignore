@@ -12,6 +12,7 @@
 data
 token.txt
 kaggle.json
+history.sqlite-journal
 
 .cache
 .local
