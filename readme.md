@@ -1,3 +1,8 @@
+This repo is named after the Greek Titan.
+This repo contains Jupyter notebooks, Kaggle competition submission related files etc.
+
+Below are instructions to using a Docker container to run Jupyter notebooks
+
 # Instructions
 
 ## Using docker
