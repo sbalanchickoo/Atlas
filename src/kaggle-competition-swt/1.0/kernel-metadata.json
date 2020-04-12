@@ -1,0 +1,13 @@
+{
+  "id": "shribee/swt-1-0",
+  "title": "swt-1-0",
+  "code_file": "swt-1-0.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["santa-workshop-tour-2019"],
+  "kernel_sources": []
+}
