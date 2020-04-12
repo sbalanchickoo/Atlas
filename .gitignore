@@ -1,17 +1,18 @@
-*.csv
 *.bat
-*.zip
+*.csv
+*.csv.gz
 *.pdf
-*.xml
+*.pkz
 *.whl
+*.xml
+*.zip
 
 data
 token.txt
 kaggle.json
 
-*.csv
-*.csv.gz
 .cache
 .local
+
 
 .ipython/profile_default/history.sqlite
