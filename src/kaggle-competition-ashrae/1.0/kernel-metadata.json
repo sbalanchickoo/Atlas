@@ -1,0 +1,13 @@
+{
+  "id": "shribee/ashrae-train-test-1-5b",
+  "title": "ashrae-train-test-1-5b",
+  "code_file": "ashrae-train-test-1-5b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["ashrae-energy-prediction"],
+  "kernel_sources": ["shribee/ashrae-scripts", "shribee/ashrae-train-test-1-0", "shribee/ashrae-site-models"]
+}

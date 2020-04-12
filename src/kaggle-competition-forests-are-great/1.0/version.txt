@@ -1,0 +1,12 @@
+Version: 1.0
+Steps: 
+  - Draw feature importance visualization
+  - Compare models to identify best
+    - RandomForestClassifier
+    - XGBClassifier
+    - AdaBoostClassifier
+    - SVC
+    - KNeighborsClassifier
+    - LogisticRegression
+  - Hyperparameter optimization using grid search for best one
+  - Fitting on X_train, validation on X_val, prediction on X_test

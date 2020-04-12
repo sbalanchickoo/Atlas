@@ -1,0 +1,13 @@
+{
+  "id": "shribee/forests-are-great-5-0",
+  "title": "forests-are-great-5-0",
+  "code_file": "forests-are-great.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["learn-together"],
+  "kernel_sources": []
+}

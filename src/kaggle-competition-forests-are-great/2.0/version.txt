@@ -1,0 +1,11 @@
+Version: 2.0
+Steps: 
+  - Draw feature importance visualization
+  - Define layer one and stacking model
+    - RandomForestClassifier
+    - XGBClassifier
+    - AdaBoostClassifier
+    - SVC
+    - KNeighborsClassifier
+  - No hyperparameter optimization using grid search for best one
+  - For identifying stack model and validation, using X_train, y_train; For df_test fitting on X, Y

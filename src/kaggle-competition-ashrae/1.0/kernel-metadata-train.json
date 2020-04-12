@@ -1,0 +1,13 @@
+{
+  "id": "shribee/ashrae-train-1-0",
+  "title": "ashrae-train-1-0",
+  "code_file": "ashrae-train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["ashrae-energy-prediction"],
+  "kernel_sources": ["shribee/ashrae-scripts"]
+}
